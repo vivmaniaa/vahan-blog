@@ -6,7 +6,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="jumbotron">
-                <h1>Welcombe to the blog</h1>
+                <h1>Welcombe to the vahan blog</h1>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consectetur deserunt dignissimos ea, exercitationem facilis ipsam itaque nam nesciunt, nihil non quasi quidem tenetur? Aliquam cum maxime natus perspiciatis reprehenderit.</p>
                 <p><a href="#" class="btn btn-primary" role="button">Popular Post</a></p>
             </div>
